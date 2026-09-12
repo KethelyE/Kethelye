@@ -34,7 +34,7 @@
     </td>
     <!-- Coluna Direita: Espaço reservado para a futura imagem -->
     <td width="50%" align="center" valign="middle">
-      <img src="URL_DA_SUA_IMAGEM_AQUI" width="100%" alt="Espaço da Imagem" />
+      <img src="https://i.pinimg.com/736x/33/3b/7b/333b7b2a74a0489db93b38bb93065934.jpg" width="100%" alt="Espaço da Imagem" />
     </td>
   </tr>
 </table>
