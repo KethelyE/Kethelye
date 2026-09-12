@@ -2,7 +2,7 @@
 
 <p>Atualmente sou estudante de Engenharia da Computação na FIAP (Faculdade de Informática e Administração Paulista) e possuo diploma de Técnico em Eletrônica pela ETEC Takashi Morita. Me interresso tanto por front-end quanto por back-end. Eu estudo e me atualizo constantemente, pois adoro descobrir como as coisas funcionam e utilizar meus conhecimentos para desenvolver novas soluções.</p>
 
-<br>
+<h3 align="center">My Stacks </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
@@ -48,6 +48,7 @@
 
 <br>
 <div align="center">
+  <h3 align="center">Connect with me!</h3>
   <a href="mailto:kethely.ester@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ff007f?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a> 
